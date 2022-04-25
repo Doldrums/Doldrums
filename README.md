@@ -3,9 +3,8 @@ Hi there 👋
 
 My name is Arina. ima just trying to do smth.
 
-* 🌍  I'm based in Innopolis(Russia)
-* ✉️  You can contact me at [t.me/amoriodi](mailto:t.me/amoriodi)
-* 🚀  I'm currently working on [Yandex.Taxi](http://taxi.yandex.ru/)
+* 🌍  I'm based in Innopolis
+* ✉️  You can contact me at [t.me/amoriodi](t.me/amoriodi)
 * ⚡  amoriodi.taplink.ws
 
 <a href="https://www.twitter.com/aaammmooorr" target="_blank" rel="noreferrer"><img
@@ -31,7 +30,6 @@ src="https://img.shields.io/github/followers/Doldrums?logo=github&style=for-the-
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/orina#4346" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/Doldrums_3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/Doldrums" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sighhhttt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/arina-c-52b707220/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/aaammmooorr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-### Badges
 
 <b>My GitHub Stats</b>
 
