@@ -1,4 +1,4 @@
-<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am <a href="https://github.com/doldrums">Arina
+<h1> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px", height="30px">Hi, I am <a href="https://github.com/doldrums">Arina
 </h1>
 
 #### 📬 Find me at
